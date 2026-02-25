@@ -1,0 +1,5 @@
+{
+  "name": "ZapyDisparo",
+  "description": "Serviço de transmissão de mensagens pelo WhatsApp com IA.",
+  "requestFramePermissions": []
+}
